@@ -1,4 +1,4 @@
-package com.aryan.roomdatabase
+package com.example.roomapp
 
 import org.junit.Test
 
